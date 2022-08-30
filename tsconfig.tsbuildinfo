@@ -1,0 +1,307 @@
+{
+  "program": {
+    "fileInfos": {
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "1f65b14a74cfe6e5739199c1eff5612f1655943c7d0bb8c8ba6bdacdf3df396e",
+        "signature": "1f65b14a74cfe6e5739199c1eff5612f1655943c7d0bb8c8ba6bdacdf3df396e"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
+        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/03_typeannotation.ts": {
+        "version": "47b63470f0940e82ab11511de536c16a8d43d5425f801bb6bd1829814a131ba1",
+        "signature": "37de214386fc9e1ea8c62ddd9393deec79d674d0e902f82c003a630703e51bf0"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/04_structcuraltyping.ts": {
+        "version": "a8e844cb8ddf219b57337eeeb3dd1fb88b1628d71ef3b2dd3e07e1910925ee28",
+        "signature": "0073f54c407b373a7a949c4c94f5814ef38a8351c36c6e89b3deb5ee56dbb69e"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/05_typeguard.ts": {
+        "version": "51083402270959d657d7bf5b2c9932110d7220425c9f85c0cae4b08fbb429e4d",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/06_generics.ts": {
+        "version": "0ceff144d5b72db75e41f317e519a5c94f36f8dd60f6e75b2a52d42155e74b3b",
+        "signature": "39ef4ea2eaa4340f69ce8f346ff5da3e61e849853128f2303b71c8af4abf7851"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/07_generics.ts": {
+        "version": "80855cb19b0fdecdfa771ae59ba77c689de5f501105b29afb58e11210512802b",
+        "signature": "65226b9be8156b7c3142adadef47b0ead3f9e22174462553bf52e6831d82132e"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/08_typesdomain.ts": {
+        "version": "6fabbbd06fb8e114e9f5bf9aca07d179ba7a66d208bd108ef51adb26e27a859e",
+        "signature": "f6408a479f1329fedb9fe702f5feb6a5f31f637ed32757e223c24bf23918196f"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/09_declarativemerging.ts": {
+        "version": "e944112715fefdfaf6eaa01abe944cf6db9ecf781651d060ae8233b9a9146f71",
+        "signature": "6c2cac5f9b43633b0ca6d3a8a1b2da6faf23271d483c64335c63c79476a1dbde"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/10_overloading.ts": {
+        "version": "1db2fe1aa0feedd0f84176a9a60cd65f2e13ad10945343a930a8aa861990fea8",
+        "signature": "764cd85311338fbe7eda6980c428220af6743ff123dba63211d819360c9179ee"
+      },
+      "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts": {
+        "version": "508a077ae2fe30c3e506ac1785f9b91d5e7f185b3cd1b1bf2f2860a55bc35751",
+        "signature": "4802fb6b8663529d07cab47b140d70ad4e8ca3f76e9cb96ea2a448c569b3553d"
+      }
+    },
+    "options": {
+      "target": 2,
+      "module": 5,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.es2015.d.ts",
+        "lib.dom.iterable.d.ts",
+        "lib.scripthost.d.ts"
+      ],
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "configFilePath": "D:/websites/presentations/ts/reveal.js/tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es5.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.dom.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "d:/websites/presentations/ts/reveal.js/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      [
+        "d:/websites/presentations/ts/reveal.js/examples/03_typeannotation.ts",
+        [
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/03_typeannotation.ts",
+            "start": 242,
+            "length": 10,
+            "code": 2322,
+            "category": 1,
+            "messageText": "Type 'string' is not assignable to type 'number'."
+          }
+        ]
+      ],
+      "d:/websites/presentations/ts/reveal.js/examples/04_structcuraltyping.ts",
+      "d:/websites/presentations/ts/reveal.js/examples/05_typeguard.ts",
+      [
+        "d:/websites/presentations/ts/reveal.js/examples/06_generics.ts",
+        [
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/06_generics.ts",
+            "start": 1218,
+            "length": 3,
+            "code": 2345,
+            "category": 1,
+            "messageText": "Argument of type '\"m\"' is not assignable to parameter of type '\"a\" | \"b\" | \"c\" | \"d\"'."
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/06_generics.ts",
+            "start": 2097,
+            "length": 5,
+            "code": 2339,
+            "category": 1,
+            "messageText": "Property 'value' does not exist on type 'Element'."
+          }
+        ]
+      ],
+      "d:/websites/presentations/ts/reveal.js/examples/07_generics.ts",
+      [
+        "d:/websites/presentations/ts/reveal.js/examples/08_typesdomain.ts",
+        [
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/08_typesdomain.ts",
+            "start": 883,
+            "length": 6,
+            "messageText": "Cannot assign to 'prop11' because it is a read-only property.",
+            "category": 1,
+            "code": 2540
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/08_typesdomain.ts",
+            "start": 3214,
+            "length": 6,
+            "code": 2345,
+            "category": 1,
+            "messageText": "Argument of type 'string' is not assignable to parameter of type 'number'."
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/08_typesdomain.ts",
+            "start": 3404,
+            "length": 6,
+            "code": 2322,
+            "category": 1,
+            "messageText": "Type 'number' is not assignable to type 'string'."
+          }
+        ]
+      ],
+      [
+        "d:/websites/presentations/ts/reveal.js/examples/09_declarativemerging.ts",
+        [
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/09_declarativemerging.ts",
+            "start": 166,
+            "length": 5,
+            "messageText": "Subsequent property declarations must have the same type.  Property 'width' must be of type 'number', but here has type 'string'.",
+            "category": 1,
+            "code": 2717,
+            "relatedInformation": [
+              {
+                "file": "d:/websites/presentations/ts/reveal.js/examples/09_declarativemerging.ts",
+                "start": 101,
+                "length": 5,
+                "messageText": "'width' was also declared here.",
+                "category": 3,
+                "code": 6203
+              }
+            ]
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/09_declarativemerging.ts",
+            "start": 226,
+            "length": 5,
+            "code": 2322,
+            "category": 1,
+            "messageText": {
+              "messageText": "Type '{ height: number; width: number; s: number; }' is not assignable to type 'Boxx'.",
+              "category": 1,
+              "code": 2322,
+              "next": {
+                "messageText": "Object literal may only specify known properties, and 's' does not exist in type 'Boxx'.",
+                "category": 1,
+                "code": 2353
+              }
+            }
+          }
+        ]
+      ],
+      "d:/websites/presentations/ts/reveal.js/examples/10_overloading.ts",
+      [
+        "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+        [
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 130,
+            "length": 3,
+            "messageText": "Cannot assign to 'Cat' because it is a read-only property.",
+            "category": 1,
+            "code": 2540
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 349,
+            "length": 6,
+            "code": 2339,
+            "category": 1,
+            "messageText": "Property 'values' does not exist on type 'ObjectConstructor'."
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 1191,
+            "length": 10,
+            "messageText": "'const' enums can only be used in property or index access expressions or the right hand side of an import declaration or export assignment or type query.",
+            "category": 1,
+            "code": 2475
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 1238,
+            "length": 6,
+            "code": 2339,
+            "category": 1,
+            "messageText": "Property 'values' does not exist on type 'ObjectConstructor'."
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 1245,
+            "length": 10,
+            "messageText": "'const' enums can only be used in property or index access expressions or the right hand side of an import declaration or export assignment or type query.",
+            "category": 1,
+            "code": 2475
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 2470,
+            "length": 7,
+            "code": 2339,
+            "category": 1,
+            "messageText": "Property 'entries' does not exist on type 'ObjectConstructor'."
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 3284,
+            "length": 4,
+            "messageText": "Type 'Parameters<FN>' must have a '[Symbol.iterator]()' method that returns an iterator.",
+            "category": 1,
+            "code": 2488
+          },
+          {
+            "file": "d:/websites/presentations/ts/reveal.js/examples/11_enum.ts",
+            "start": 3565,
+            "length": 5,
+            "code": 2345,
+            "category": 1,
+            "messageText": "Argument of type 'false' is not assignable to parameter of type 'number | undefined'."
+          }
+        ]
+      ]
+    ]
+  },
+  "version": "3.5.0-dev.20190523"
+}
